@@ -56,7 +56,6 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 3: Japanese Onsen Ryokan Portrait (by @BubbleBrain)](#case-3-japanese-onsen-ryokan-portrait-by-bubblebrain)
   - [Case 4: 35mm Flash Editorial Portrait (by @BubbleBrain)](#case-4-35mm-flash-editorial-portrait-by-bubblebrain)
   - [Case 5: Mirror Selfie Bedroom Portrait (by @Shinning1010)](#case-5-mirror-selfie-bedroom-portrait-by-shinning1010)
-  - [Case 6: Low-Angle POV Fashion Editorial (by @BubbleBrain)](#case-6-low-angle-pov-fashion-editorial-by-bubblebrain)
   - [Case 7: Luxury Glam Beauty Portrait (by @patrickassale)](#case-7-luxury-glam-beauty-portrait-by-patrickassale)
   - [Case 8: 9:16 Cosplayer Portrait Screenshot (by @Zoulinshen)](#case-8-916-cosplayer-portrait-screenshot-by-zoulinshen)
 - [Poster & Illustration Cases](#poster-illustration-cases)
@@ -65,7 +64,6 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 3: Chengdu Food Map Illustration (by @Panda20230902)](#case-3-chengdu-food-map-illustration-by-panda20230902)
   - [Case 4: Chinese Minimalist S-Shaped Poster (by @liyue_ai)](#case-4-chinese-minimalist-s-shaped-poster-by-liyue_ai)
   - [Case 5: 2026 Spring Guangzhou City Poster (by @liyue_ai)](#case-5-2026-spring-guangzhou-city-poster-by-liyue_ai)
-  - [Case 6: Creative Calligraphy Typography (by @liyue_ai)](#case-6-creative-calligraphy-typography-by-liyue_ai)
   - [Case 7: Doodle Sketch AI Builder (by @blanplan)](#case-7-doodle-sketch-ai-builder-by-blanplan)
   - [Case 8: Futuristic Mandala Illustration (by @4WEB1)](#case-8-futuristic-mandala-illustration-by-4web1)
   - [Case 9: Super Famicom Poster Style (by @lilimliliychan)](#case-9-super-famicom-poster-style-by-lilimliliychan)
@@ -75,14 +73,12 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 3: Gal Game Character Introduction Page (by @09lyco)](#case-3-gal-game-character-introduction-page-by-09lyco)
   - [Case 4: Chibi Character Reference Sheet (by @tsubaki_ew)](#case-4-chibi-character-reference-sheet-by-tsubaki_ew)
   - [Case 5: Official Character Sheet (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshi_nyaruo_ai)
-  - [Case 6: Four-Model Realistic Character Sheet Battle (by @yyu_hase)](#case-6-four-model-realistic-character-sheet-battle-by-yyu_hase)
 - [UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
   - [Case 1: One-Prompt UI Design Generation (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
   - [Case 2: Amateur iPhone Keynote Snapshot (by @patrickassale)](#case-2-amateur-iphone-keynote-snapshot-by-patrickassale)
   - [Case 3: Handwritten Notebook Photo (by @patrickassale)](#case-3-handwritten-notebook-photo-by-patrickassale)
   - [Case 4: Song Dynasty Social Media Feed (by @Panda20230902)](#case-4-song-dynasty-social-media-feed-by-panda20230902)
   - [Case 5: Multi-Platform Content Screenshots (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
-  - [Case 6: Four-Prompt Creative Screenshot Set (by @rionaifantasy)](#case-6-four-prompt-creative-screenshot-set-by-rionaifantasy)
   - [Case 7: Liu Yifei Douyin Livestream Screenshot (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
   - [Case 8: King Taejo Yi Seong-gye's X Page (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
 - [Comparison & Community Examples](#comparison-community-examples)
@@ -91,7 +87,6 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 3: Reference Frame Scene Direction (by @HuliJason)](#case-3-reference-frame-scene-direction-by-hulijason)
   - [Case 4: GPT-Image-2 Launch Showcase (by @MikelEcheve)](#case-4-gpt-image-2-launch-showcase-by-mikelecheve)
   - [Case 5: Wooden Bookshelf Prompt Test (by @chetaslua)](#case-5-wooden-bookshelf-prompt-test-by-chetaslua)
-  - [Case 6: Trump & Biden Oval Office Handshake (by @signedbywill)](#case-6-trump-biden-oval-office-handshake-by-signedbywill)
   - [Case 7: GPT Image 2 vs Nano Banana 2 Showcase (by @zerolu_eth)](#case-7-gpt-image-2-vs-nano-banana-2-showcase-by-zerolu_eth)
   - [Case 8: Arena First-Impression Test (by @Cheney_NehcOal)](#case-8-arena-first-impression-test-by-cheney_nehcoal)
   - [Case 9: Prompt Swap Bald Photo Test (by @cnzoecomeback)](#case-9-prompt-swap-bald-photo-test-by-cnzoecomeback)
@@ -172,22 +167,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.
 Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
 ```
-<!-- Case 6: Low-Angle POV Fashion Editorial (by @BubbleBrain) -->
-### Case 6: [Low-Angle POV Fashion Editorial](https://x.com/BubbleBrain/status/2044705257004093537) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| Output |
-| :----: |
-| <a href="https://evolink.ai/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case6/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-Analog 35mm film photography, high-fashion editorial portrait with intense on-camera direct flash (CCD hard flash style), intimate low-angle POV shot from slightly below (仰拍, around +15° upward angle), emphasizing long legs and elegant hourglass body proportions, 4:3 vertical format, 3/4 body shot, early 20s Korean idol-type young woman with delicate refined features, slightly upturned almond-shaped fox eyes, small sharp jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from direct flash, soft coral blush, natural dusty rose lips slightly parted, long naturally wavy dark brown hair with loose strands framing the face, wearing a slightly tilted black police peaked cap with silver badge.
-She wears a fitted, stylish policewoman-inspired outfit: black short-sleeved collared crop top with shiny silver buttons and epaulets, a shiny silver police badge pinned on the chest, a thin black necktie loosely hanging at the front, a wide black duty belt with a silver buckle and handcuffs at the side, and a short black pleated mini skirt. Black thigh-high stockings and white low-top canvas sneakers with loose lacing add a casual contrast.
-Pose: a subtle S-curve stance with weight shifted to one leg, hips angled slightly toward the camera to enhance silhouette and leg length. One hand lightly touches the cap brim or rests near the waist, while the other hand is placed at the hip or near the belt. Head tilted slightly down with a confident, self-assured upward gaze through lashes directed at the viewer, expression poised, cool, and subtly playful rather than overtly seductive.
-Harsh on-camera direct flash from front/slightly above creates strong catchlights, sharp shadows behind the subject, crisp highlights on skin, hair, badge, belt buckle, and fabric textures. Cold flash quality mixed with warm ambient window light, visible flash fall-off, Kodak Portra 400 film simulation pushed for strong analog character, warm peachy skin tones with flash highlights, subtle cyan shadows, prominent heavy analog film grain (strength 0.65, larger grain size), noticeable film halation around bright areas, strong natural vignette, slight underexposure for a raw intimate mood.
-Ultra-realistic photorealistic film photography, edgy magazine editorial aesthetic, visible fabric texture and reflective metal details, delicate hair strands glowing from flash, natural skin texture with heavy film grain throughout, no plastic skin, no digital sharpness, no airbrushing, no watermark, no text, authentic 35mm film look with strong grain and flash artifacts, analog color grading.
-```
 <!-- Case 7: Luxury Glam Beauty Portrait (by @patrickassale) -->
 ### Case 7: [Luxury Glam Beauty Portrait](https://x.com/patrickassale/status/2044581766309060765) (by [@patrickassale](https://x.com/patrickassale))
 
@@ -292,24 +272,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
 文字排版优美，大方，字迹清晰完整，尺寸9:16。
 ```
-<!-- Case 6: Creative Calligraphy Typography (by @liyue_ai) -->
-### Case 6: [Creative Calligraphy Typography](https://x.com/liyue_ai/status/2045328856937312549) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| Output |
-| :----: |
-| <a href="https://evolink.ai/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case6/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力；
-深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道；
-起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化；
-dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
-重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道；
-整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感；
-纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。
-```
 <!-- Case 7: Doodle Sketch AI Builder (by @blanplan) -->
 ### Case 7: [Doodle Sketch AI Builder](https://x.com/blanplan/status/2045190582453350748) (by [@blanplan](https://x.com/blanplan))
 
@@ -459,38 +422,7 @@ Kusさん
 ありがとうございます🤩
 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️
 ```
-<!-- Case 6: Four-Model Realistic Character Sheet Battle (by @yyu_hase) -->
-### Case 6: [Four-Model Realistic Character Sheet Battle](https://x.com/yyu_hase/status/2044974930694226075) (by [@yyu_hase](https://x.com/yyu_hase))
 
-| Output |
-| :----: |
-| <a href="https://evolink.ai/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case6/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-をお借りして
-実写風人物（わたし）で4つ対決させました。
-
-▶1枚目：GPTimage2　完璧！
-　ただ好きな物や世界観とか勝手に入れてるｗ
-　小物や生地の素材感まで解説細かい
-▶2枚目：NanoBananaPro　安定
-　1回目はアニメ風に出たから「リアリスティックなシート」にプロンプトを追加。ベルトないけどｗ
-▶3枚目：Seedream5.0light　あれ？
-　1回目で実写出たけど、日本語崩れ＆表情差分が1つショートカットｗ
-▶4枚目：Grok(byHiggs)　強制縦型
-　実写はでず、メガネは外れ、アニメタッチ
-
-【結果】
-GPTimage2の画像生成完成度高い！
-表情差分多い所や各解説が動画にした時に
-どう反応するのか？
-NanoBananaProは安定で間違えなし。
-
-このキャラシート使って、私の動画を作成中！
-お楽しみに~🎤
-```
 ## UI & Social Media Mockup Cases
 
 <!-- Case 1: One-Prompt UI Design Generation (by @austinit) -->
@@ -558,32 +490,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 3、生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸
 4、生成快手内容截图：主题：直播离婚预告，iPhone尺寸
 ```
-<!-- Case 6: Four-Prompt Creative Screenshot Set (by @rionaifantasy) -->
-### Case 6: [Four-Prompt Creative Screenshot Set](https://x.com/rionaifantasy/status/2045356799751303194) (by [@rionaifantasy](https://x.com/rionaifantasy))
 
-| Output |
-| :----: |
-| <a href="https://evolink.ai/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case6/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-1、生成特朗普和金正恩在抖音直播间打PK的截图
-
-2、生成不知火舞的小红书主页截图
-
-3、生成图片:
-手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍
-
-4、生成图片:
-T-800机器人的淘宝商品详情页，展示:
-机器人的正面侧面背面三视图，
-产品价格，
-产品细节，
-功能和使用场景等
-
-直接在ChatGPT网页版或客户端，选择“创建图片”功能体验即可
-```
 <!-- Case 7: Liu Yifei Douyin Livestream Screenshot (by @alanblogsooo) -->
 ### Case 7: [Liu Yifei Douyin Livestream Screenshot](https://x.com/alanblogsooo/status/2044784762594918516) (by [@alanblogsooo](https://x.com/alanblogsooo))
 
@@ -691,18 +598,7 @@ None of the current sota able to solve in 3 attempts
 Nanobanana Pro 🍌, Nano banana 2🍌 & Gpt-image-1.5
 Prompt : A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
 ```
-<!-- Case 6: Trump & Biden Oval Office Handshake (by @signedbywill) -->
-### Case 6: [Trump & Biden Oval Office Handshake](https://x.com/signedbywill/status/2045013141629845844) (by [@signedbywill](https://x.com/signedbywill))
 
-| Output |
-| :----: |
-| <a href="https://evolink.ai/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case6/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-generate an image of donald trump shaking hands with a confused joe biden as they stand in the oval office
-```
 <!-- Case 7: GPT Image 2 vs Nano Banana 2 Showcase (by @zerolu_eth) -->
 ### Case 7: [GPT Image 2 vs Nano Banana 2 Showcase](https://x.com/zerolu_eth/status/2044981771641798862) (by [@zerolu_eth](https://x.com/zerolu_eth))
 
