@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://evolink.ai/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/logo.png" alt="Proje logosu"></a>
+<a href="https://evolink.ai/models?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/logo.png" alt="Proje logosu"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/openclaw-hosting?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
