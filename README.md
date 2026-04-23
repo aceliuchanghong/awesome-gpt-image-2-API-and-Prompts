@@ -420,7 +420,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case70/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case70/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -450,7 +450,7 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case71/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case71/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -463,7 +463,7 @@ Create image of Magazine feature article [travel] guide page, cute, information 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case77/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case77/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -492,7 +492,7 @@ the #1 tell on AI photos is flat colors and a grainy look. this method removes b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case78/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case78/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -505,7 +505,7 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case79/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case79/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -528,7 +528,7 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case80/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case80/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -541,7 +541,7 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case81/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case81/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1430,7 +1430,7 @@ AI 必须依据【主题】自动决定最合适的:
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case60/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case60/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1443,7 +1443,7 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case62/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case62/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1470,7 +1470,7 @@ Commercial product photography, ultra-detailed, 8K.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case75/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case75/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1485,7 +1485,7 @@ Online 360° Panorama Viewer VR
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case82/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case82/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1502,7 +1502,7 @@ Two children in calm conversation,soft connection forming.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case85/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case85/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1551,7 +1551,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case87/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case87/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1564,7 +1564,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case89/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case89/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1579,7 +1579,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case90/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case90/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1594,7 +1594,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case103/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case103/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1609,7 +1609,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case104/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case104/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1622,7 +1622,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case105/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case105/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1635,7 +1635,7 @@ generate an image of a racing car poster with its spec and pricing
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case106/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case106/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2194,7 +2194,7 @@ Create a commercial ad from the storyboard @[image1]
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case63/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/ui_case63/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2207,7 +2207,7 @@ based on the generated character help me generate a screenshot of screenshot of 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case64/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/ui_case64/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2242,7 +2242,7 @@ Create a commercial ad from the storyboard @[image1]
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case88/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/ui_case88/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2549,7 +2549,7 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case61/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case61/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2562,7 +2562,7 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case65/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case65/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2575,7 +2575,7 @@ Generate an image of the most significant event of 2020
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case66/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case66/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2588,7 +2588,7 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case67/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case67/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2601,7 +2601,7 @@ Generate an image of the most significant event of 2001
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case69/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case69/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2614,7 +2614,7 @@ Generate an image of the most significant event of 2025.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case73/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case73/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2628,7 +2628,7 @@ Idea: @icreatelife
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case74/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case74/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2642,7 +2642,7 @@ Idea: @icreatelife
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case76/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case76/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2655,7 +2655,7 @@ Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case83/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case83/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2668,7 +2668,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case84/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case84/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2681,7 +2681,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case86/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case86/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2694,7 +2694,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case91/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case91/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2707,7 +2707,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case92/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case92/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2720,7 +2720,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case93/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case93/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2757,7 +2757,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case94/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case94/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2770,7 +2770,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case95/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case95/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2783,7 +2783,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case96/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case96/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2798,7 +2798,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case97/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case97/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2811,7 +2811,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case98/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case98/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2824,7 +2824,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case99/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case99/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2837,7 +2837,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case100/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case100/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2850,7 +2850,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case101/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case101/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2863,7 +2863,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case102/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case102/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2876,7 +2876,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case107/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case107/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2889,7 +2889,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case108/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case108/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2902,7 +2902,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case109/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case109/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2925,7 +2925,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case110/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case110/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2946,7 +2946,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case111/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case111/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -2961,7 +2961,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case112/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case112/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -3019,7 +3019,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case113/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case113/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -3035,7 +3035,7 @@ GPT Image-2で生成したやつ→
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case114/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case114/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -3048,7 +3048,7 @@ GPT Image-2で生成したやつ→
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case115/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case115/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -3061,7 +3061,7 @@ GPT Image-2で生成したやつ→
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case116/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case116/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -3076,7 +3076,7 @@ GPT Image-2で生成したやつ→
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case117/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case117/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
