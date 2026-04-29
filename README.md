@@ -42,6 +42,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## News
 
+- **April 29, 2026:** Added 8 new GPT-Image-2 prompt cases (2 e-commerce, 3 ad creative, 1 portrait, 1 character, 1 poster) from the conservative GPT-Image-2 review batch
 - **April 29, 2026:** Added 8 new GPT-Image-2 prompt cases (2 portrait, 6 poster) and synced localized prompt entries for Cases 102 and 103
 - **April 26, 2026:** Added 9 new GPT-Image-2 prompt cases (1 character, 7 poster, 1 ui)
 - **April 25, 2026:** Added 81 new GPT-Image-2 prompt cases (2 character, 20 portrait, 42 poster, 17 ui)
@@ -81,6 +82,8 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 159: E-commerce Main Image - Pastel Blue Crocs Fashion Ad (by @SPEEDAI07)](#case-159-e-commerce-main-image-pastel-blue-crocs-fashion-ad-by-speedai07)
   - [Case 160: E-commerce Main Image - 9-Panel Product TVC Storyboard (by @Magncsans)](#case-160-e-commerce-main-image-9-panel-product-tvc-storyboard-by-magncsans)
   - [Case 89: E-commerce Live Stream UI Mockup (by @sjbbxhz)](#case-89-e-commerce-live-stream-ui-mockup-by-sjbbxhz)
+  - [Case 161: Premium product studio shot template (by @PrometheanAIX)](#case-161-premium-product-studio-shot-template-by-prometheanaix)
+  - [Case 162: Premium food photography template (by @PrometheanAIX)](#case-162-premium-food-photography-template-by-prometheanaix)
 - [📣 Ad Creative Cases](#ad-creative-cases)
   - [Case 90: 4-Panel Japanese Digital Ad Banner Grid (by @makaneko_AI)](#case-90-4-panel-japanese-digital-ad-banner-grid-by-makaneko_ai)
   - [Case 112: Anime Character Brand Identity & Merch Board (by @chi_vc_)](#case-112-anime-character-brand-identity-merch-board-by-chi_vc_)
@@ -98,6 +101,9 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 150: Luxury Miniature Dubai City Model (by @silentempiredev)](#case-150-luxury-miniature-dubai-city-model-by-silentempiredev)
   - [Case 131: Parody Luxury Product Advertisement (by @tonysimons_)](#case-131-parody-luxury-product-advertisement-by-tonysimons_)
   - [Case 109: VR Headset Exploded View Poster (by @wory37303852)](#case-109-vr-headset-exploded-view-poster-by-wory37303852)
+  - [Case 168: Luxury poster for fictional AI ad printer (by @nijisora_yuma)](#case-168-luxury-poster-for-fictional-ai-ad-printer-by-nijisora_yuma)
+  - [Case 169: Luxury chocolate campaign system (by @SPEEDAI07)](#case-169-luxury-chocolate-campaign-system-by-speedai07)
+  - [Case 170: Urban fruit juice ad poster (by @AIwithSarah_)](#case-170-urban-fruit-juice-ad-poster-by-aiwithsarah_)
 - [🍌 Portrait & Photography Cases](#portrait-photography-cases)
   - [Case 1: Convenience Store Neon Portrait (by @BubbleBrain)](#case-1-convenience-store-neon-portrait-by-bubblebrain)
   - [Case 2: Cinematic Minimal Portrait (by @iam_miharbi)](#case-2-cinematic-minimal-portrait-by-iam_miharbi)
@@ -152,6 +158,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 101: Cozy Catgirl Pajama Night Portrait (by @yume00112211)](#case-101-cozy-catgirl-pajama-night-portrait-by-yume00112211)
   - [Case 102: Collectible Figure Workspace Photo (by @Shinning1010)](#case-102-collectible-figure-workspace-photo-by-shinning1010)
   - [Case 103: Rainy Bus Stop Portrait (by @harboriis)](#case-103-rainy-bus-stop-portrait-by-harboriis)
+  - [Case 104: CCD flash beauty portrait template (by @AIwithAliya)](#case-104-ccd-flash-beauty-portrait-template-by-aiwithaliya)
 - [🖼️ Poster & Illustration Cases](#poster-illustration-cases)
   - [Case 1: Boston Spring 2026 City Poster (by @BubbleBrain)](#case-1-boston-spring-2026-city-poster-by-bubblebrain)
   - [Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo)](#case-2-vintage-amalfi-travel-poster-by-wolfriccardo)
@@ -251,6 +258,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 171: Fashion Dress Collection Infographic (by @cellinlab)](#case-171-fashion-dress-collection-infographic-by-cellinlab)
   - [Case 172: Monochrome Fashion Cover (by @sha_zdiii)](#case-172-monochrome-fashion-cover-by-sha_zdiii)
   - [Case 173: Fast Food Character Poster (by @LoovaAI)](#case-173-fast-food-character-poster-by-loovaai)
+  - [Case 174: New York across two centuries cinematic poster (by @Shinning1010)](#case-174-new-york-across-two-centuries-cinematic-poster-by-shinning1010)
 - [🎭 Character Design Cases](#character-design-cases)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
@@ -263,6 +271,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 11: GTA 6 in Bangalore Flower Market (by @ismajc)](#case-11-gta-6-in-bangalore-flower-market-by-ismajc)
   - [Case 12: GTA 6 Shinjuku Bar Scene (by @ismajc)](#case-12-gta-6-shinjuku-bar-scene-by-ismajc)
   - [Case 13: Eleanor from White Cat Project (by @yume00112211)](#case-13-eleanor-from-white-cat-project-by-yume00112211)
+  - [Case 14: Character key visual poster with silhouette collage (by @SimplyAnnisa)](#case-14-character-key-visual-poster-with-silhouette-collage-by-simplyannisa)
 - [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
   - [Case 1: One-Prompt UI Design Generation (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
   - [Case 2: Amateur iPhone Keynote Snapshot (by @patrickassale)](#case-2-amateur-iphone-keynote-snapshot-by-patrickassale)
@@ -684,6 +693,33 @@ Using the provided reference image, transform the single casual product photo in
   }
 }
 ```
+
+<!-- Case 161: Premium product studio shot template (by @PrometheanAIX) -->
+### Case 161: [Premium product studio shot template](https://x.com/PrometheanAIX/status/2049141839882522707) (by [@PrometheanAIX](https://x.com/PrometheanAIX))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case161/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a premium product studio image of a [PRODUCT] for [BRAND], designed in line with [BRAND REFERENCE]. Show the [PRODUCT] floating against a clean light gray to soft white gradient background with a minimal high-end tech aesthetic. The [PRODUCT] should feel sleek, modern, refined, and premium, with subtle illuminated accents in [LIGHTING COLOR]. Use a three-quarter front angle so both earcups are visible, with detailed industrial design elements. Include the [BRAND] name cleanly on the product. Lighting should be soft, controlled, and editorial, with crisp highlights, soft shadows, and a subtle colored rim light or glow in [LIGHTING COLOR]. Emphasize material realism and clean geometric forms. Keep the background uncluttered and minimal. No extra props, no people, no text overlays, no packaging, and no distracting elements. Focus entirely on the [PRODUCT] as the hero product.
+```
+
+<!-- Case 162: Premium food photography template (by @PrometheanAIX) -->
+### Case 162: [Premium food photography template](https://x.com/PrometheanAIX/status/2049122713722106161) (by [@PrometheanAIX](https://x.com/PrometheanAIX))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case162/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a square [ASPECT RATIO] premium food photography image of a steaming [FOOD] served in a dark black stone bowl or cast-iron skillet on a wooden board. The dish should look hot, glossy, spicy, and freshly served, with bite-sized pieces of browned protein, dried red chilies, green scallions, white onion, garlic, chili flakes, and visible Sichuan peppercorns coated in a deep red, oily Szechuan sauce. Use a slightly elevated close-up camera angle with shallow depth of field. Make the food the clear hero of the image, centered and richly detailed. Add visible steam rising naturally from the dish. Surround the bowl with subtle restaurant-style props like a dark red tray, scattered dried chilies, peppercorns, a small sauce bowl, or a blurred teapot in the background. Lighting should feel warm, moody, and editorial, like a high-end restaurant food shoot. Emphasize realistic textures and keep the image appetizing, realistic, cinematic, and polished. Avoid text, logos, hands, people, utensils covering the food, cartoon styling, fake plastic textures, excessive symmetry, or an overly clean stock-photo look.
+```
+
 
 ## Ad Creative Cases
 
@@ -1244,6 +1280,60 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
   }
 }
 ```
+
+<!-- Case 168: Luxury poster for fictional AI ad printer (by @nijisora_yuma) -->
+### Case 168: [Luxury poster for fictional AI ad printer](https://x.com/nijisora_yuma/status/2049462065639858687) (by [@nijisora_yuma](https://x.com/nijisora_yuma))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case168/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+縦型3:4の、高級商業ポスターを制作してください。
+
+テーマは、架空の新商品広告です。商品は「BRAND PRESS 01（ブランドプレス・ゼロワン）」という、Pollo AIを搭載した架空の広告ポスター生成プリンターです。
+
+この商品は、まだ存在しないブランド名・商品ジャンル・世界観・ターゲット層を入力すると、Pollo AIがコピー、ビジュアル、レイアウトまで完成された商業広告ポスターを自動生成し、高精細な印刷物としてその場で出力する未来型プリンターです。単なるAIサービスの概念広告ではなく、実際に販売されていそうな架空商品の広告として成立させてください。
+
+メインコンセプト: 「まだないブランドに、最初の一目惚れを。」
+
+商品ビジュアル: 画面中央に実物の商品「BRAND PRESS 01」を大きく配置。未来型の高級プロ用印刷デバイスとして、黒い金属筐体、シルバーのエッジ、透明カバー、青白く発光するAIコア、精密な印刷ヘッド、ローラー、タッチパネル、排紙スロット、ポスター受けトレイを備える。排紙スロットから、架空の高級香水ブランド広告ポスターが紙として大きく出力されている構図。
+
+構図: ややローアングル、斜め45度。背景は暗いネイビーから黒の高級広告制作スタジオ。映画的でドラマチックな高級プロダクト広告。
+
+広告レイアウト: 上部に大きなキャッチコピー、中央にプリンター本体と排出中のポスター、右側に機能説明、左下に価格と発売日、下部にCTA。
+
+入れる文字: 「まだないブランドに、最初の一目惚れを。」 / BRAND PRESS 01 / 「Pollo AI搭載・広告ポスター生成プリンター」 / 「名前だけのアイデアを、完成された商業ポスターとして出力。」 / 「構想、コピー、ビジュアル、印刷まで。1台で。」
+```
+
+<!-- Case 169: Luxury chocolate campaign system (by @SPEEDAI07) -->
+### Case 169: [Luxury chocolate campaign system](https://x.com/SPEEDAI07/status/2049459155086500321) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case169/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a premium, square (1:1) product advertisement for a fictional luxury chocolate brand called Noirvelle Chocolat, inspired by high-end chocolate brands. The ad should feel like a high-end editorial campaign, combining luxury food photography, refined packaging design, and cinematic lighting. Use matte black wrapper, subtle gold foil, elegant serif typography, and realistic product rendering. Generate flavor variants such as Blood Orange Noir, Salted Pistachio Muse, and Raspberry Ember with distinct mood, color palette, ingredients, headline, and supporting copy. Keep the chocolate bar as hero centerpiece with subtle reflections, shallow depth of field, luxury minimalism, and a small CTA: “Shop the drop.”
+```
+
+<!-- Case 170: Urban fruit juice ad poster (by @AIwithSarah_) -->
+### Case 170: [Urban fruit juice ad poster](https://x.com/AIwithSarah_/status/2049452842931630202) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case170/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a premium modern beverage advertisement poster in a vertical 3:4 format featuring a stylish young female model crouching confidently in a bright urban indoor hallway with colorful graffiti wall art on one side and clean minimal architecture on the other. In the foreground, a giant realistic fruit juice bottle is held toward the camera in forced perspective, with fictional branding like “VIVAJUICE”. Add brand logo, tagline, huge bold overlapping typography, four icon-based feature badges, and three smaller bottle variants at bottom right. Use soft natural lighting mixed with commercial studio polish, realistic shadows, shallow depth of field, glossy floor reflections, and a premium energetic eCommerce campaign aesthetic.
+```
+
 
 ## Portrait & Photography Cases
 
@@ -2029,6 +2119,20 @@ reflecting on the ground. Neon tube lights overhead. Red jacket, tan corduroy
 
 pants. Moody, dark, atmospheric street photography.
 ```
+
+<!-- Case 104: CCD flash beauty portrait template (by @AIwithAliya) -->
+### Case 104: [CCD flash beauty portrait template](https://x.com/AIwithAliya/status/2049452006608392350) (by [@AIwithAliya](https://x.com/AIwithAliya))
+
+| Output |
+| :----: |
+| <img src="./images/portrait_case104/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, visible pores, natural skin texture, rosy complexion and dewy skin, Douyin/Korean glass-skin makeup, glossy lips, aegyosal, baby pink blush, high identity consistency, realistic human anatomy. Use an old CCD digital camera aesthetic with direct flash, visible grain, slight overexposure, cool-neutral white balance, slight motion blur, and candid composition. Hair in a loose romantic updo; outfit in delicate off-shoulder silk with embroidered floral fabric; background of pastel floral bedding; horizontal close-up; shallow depth of field. Negative prompt: over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, overly sharp HDR, stiff pose, artificial symmetry, over-retouched face.
+```
+
 
 ## Poster & Illustration Cases
 
@@ -3889,6 +3993,20 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 Use the character in image 1 as the main subject. Create a vertical poster ad in American fast food diner style. Low angle, wide lens. Red / yellow / white palette with ketchup splashes, melting cheese graphics, comic burst shapes, retro diner typography, and bold fast food poster collage aesthetic.
 ```
 
+<!-- Case 174: New York across two centuries cinematic poster (by @Shinning1010) -->
+### Case 174: [New York across two centuries cinematic poster](https://x.com/Shinning1010/status/2049460661109879022) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case174/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a cinematic 3:4 vertical poster of New York City that feels truly epic and unconventional, showing the passage from the 20th century to the 21st century in one seamless image. Place a lone figure at the center of the composition, standing in the middle of the street and looking forward as if witnessing New York across time. The left side should depict 20th-century New York with warm sepia atmosphere, vintage taxis, old newsstands, retro lamps, and landmarks like the Chrysler Building and Empire State Building. The right side should depict 21st-century New York with glass skyscrapers, One World Trade Center, digital billboards, and modern urban energy. Make the transition natural rather than split-screen, with coherent perspective, wet reflective pavement, realistic textures, atmospheric depth, and no text.
+```
+
+
 ## Character Design Cases
 
 <!-- Case 1: Anime Snapshot Conversion (by @Thereallo1026) -->
@@ -4088,6 +4206,20 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 {argument name="series" default="White Cat Project"}
 {argument name="character" default="Eleanor"}
 ```
+
+<!-- Case 14: Character key visual poster with silhouette collage (by @SimplyAnnisa) -->
+### Case 14: [Character key visual poster with silhouette collage](https://x.com/SimplyAnnisa/status/2049468867106189319) (by [@SimplyAnnisa](https://x.com/SimplyAnnisa))
+
+| Output |
+| :----: |
+| <img src="./images/character_case14/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A character promotional poster titled “INPUT NAME,” designed in a unified vertical key visual composition (9:16). The upper half features the most recognizable element of the character as a dominant oversized visual silhouette. The middle to lower section contains the full character as a secondary subject. Inside the large silhouette and around the character, use a double-exposure and collage-style narrative composition with scenes, symbolic imagery, supporting elements, and environmental details blended into mist, ink wash, and negative space. The left and right sides include complementary secondary elements to create narrative tension and spatial variation. A continuous flowing visual line runs from top to bottom, connecting the main character, internal collage, and the large upper silhouette. Preserve large areas of negative space with ink diffusion, soft blurring, and fragmented transitions inspired by Eastern aesthetics. The style is cohesive, refined, restrained, and poster-worthy.
+```
+
 
 ## UI & Social Media Mockup Cases
 
