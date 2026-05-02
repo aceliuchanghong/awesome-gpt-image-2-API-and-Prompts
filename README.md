@@ -60,6 +60,7 @@ If you find this useful, consider giving it a star. ⭐
 - [🍌 Introduction](#-introduction)
 - [📰 News](#-news)
 - [📑 Menu](#-menu)
+- [🔌 Use GPT Image 2 API](#-use-gpt-image-2-api)
 - [🛒 E-commerce Cases](cases/ecommerce.md)
 - [📣 Ad Creative Cases](cases/ad-creative.md)
 - [🍌 Portrait & Photography Cases](cases/portrait.md)
@@ -69,6 +70,37 @@ If you find this useful, consider giving it a star. ⭐
 - [🧪 Comparison & Community Examples](cases/comparison.md)
 - [🙏 Acknowledge](#acknowledge)
 
+
+## 🔌 Use GPT Image 2 API
+
+Want to move from prompt inspiration to real image generation fast? Use the GPT Image 2 API docs together with the callable skill.
+
+### 1. Quick Install the Skill
+
+- Repository: [gpt-image-2-gen-skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
+- One-line install:
+
+```bash
+npx evolink-gpt-image -y
+```
+
+### 2. Quick Connect to the API
+
+- Connect command:
+
+```bash
+curl --request POST \
+  --url https://api.evolink.ai/v1/images/generations \
+  --header 'Authorization: Bearer YOUR_API_KEY' \
+  --header 'Content-Type: application/json' \
+  --data '{
+  "model": "gpt-image-2",
+  "prompt": "A beautiful colorful sunset over the ocean"
+}'
+```
+
+- Get your API key: [Open Evolink Dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+- API docs: [GPT Image 2 Image Generation](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 ## 🛒 E-commerce Cases
 
