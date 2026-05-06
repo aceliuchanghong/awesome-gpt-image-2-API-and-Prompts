@@ -6,9 +6,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![352 Curated Prompts](https://img.shields.io/badge/Prompts-352_Curated_Cases-111111)](README.md)
-[![🎬 GPT-Image-2 × Seedance 2.0 — Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
-[![🛠️ GPT-Image-2 Gen Skill — Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
+[![359 Curated Prompts](https://img.shields.io/badge/Prompts-359_Curated_Cases-111111)](README.md)
+[![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
+[![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -44,6 +44,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## 📰 News
 
+- **May 6, 2026:** Added 7 new GPT-Image-2 prompt cases (2 portrait, 5 poster) from daily curation batch after review and media validation
 - **May 5, 2026:** Added 12 new GPT-Image-2 prompt cases from today's approved curation batch (4 portrait, 5 poster, 3 ui) after review and media validation
 - **May 3, 2026:** Added 10 new GPT-Image-2 prompt cases from the daily approved batch (1 e-commerce, 1 ad creative, 3 portrait, 2 poster, 3 ui) after review and media validation
 - **May 2, 2026:** Added 18 new GPT-Image-2 prompt cases from the last 48-hour search batch (3 portrait, 7 poster, 4 ui, 4 comparison) after review and media validation
@@ -123,7 +124,7 @@ curl --request POST \
 **Prompt:**
 
 ```
-A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled "LUXEVEIL Skin Science – Radiance Nourishing Body Lotion" in cream/beige with a polished gold pump top, placed on a circular platform. Tiny figurine construction workers dressed in yellow coveralls and white hard hats swarm around the bottle climbing scaffolding, painting the bottle with rollers, operating a tower crane, working near industrial tanks and pipework, and unloading a miniature flatbed truck. The scene includes metal scaffolding structures, industrial silos, orange traffic cones, wooden barricades, and storage barrels. The overall color palette is warm beige, cream, gold, and mustard yellow. Studio photography style with soft diffused lighting, no shadows, clean beige background. The concept metaphorically shows workers "crafting" or "building" the perfect lotion. Tilt-shift miniature aesthetic, ultra-detailed, commercial product photography, 8K resolution, photorealistic CGI render.
+A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled "LUXEVEIL Skin Science - Radiance Nourishing Body Lotion" in cream/beige with a polished gold pump top, placed on a circular platform. Tiny figurine construction workers dressed in yellow coveralls and white hard hats swarm around the bottle climbing scaffolding, painting the bottle with rollers, operating a tower crane, working near industrial tanks and pipework, and unloading a miniature flatbed truck. The scene includes metal scaffolding structures, industrial silos, orange traffic cones, wooden barricades, and storage barrels. The overall color palette is warm beige, cream, gold, and mustard yellow. Studio photography style with soft diffused lighting, no shadows, clean beige background. The concept metaphorically shows workers "crafting" or "building" the perfect lotion. Tilt-shift miniature aesthetic, ultra-detailed, commercial product photography, 8K resolution, photorealistic CGI render.
 ```
 
 <!-- Case 160: E-commerce Main Image - 9-Panel Product TVC Storyboard (by @Magncsans) -->
@@ -136,7 +137,7 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 **Prompt:**
 
 ```
-Using the provided reference image, transform the single casual product photo into a polished e-commerce TVC storyboard board for a {argument name="video duration" default="15-second"} ad in a {argument name="aspect ratio" default="9:16"} vertical format, presented as a 9-panel grid. Keep the same blue-and-white ceramic ashtray as the product base, but restage it across cinematic advertising shots with warm premium lighting, shallow depth of field, and a refined lifestyle desktop environment. Add a dark storyboard layout with Chinese titles and timing for each panel. Include exactly 9 scenes: 1) environment-establishing wide shot with desk, books, window, and the product placed in context; 2) hero product medium shot on the table; 3) extreme close-up of the blue floral craftsmanship pattern; 4) use case showing a hand placing a cigarette into the ashtray with visible smoke; 5) top-down capacity display showing multiple cigarette butts inside; 6) cleaning scene under running water in a sink with a hand holding the product; 7) bottom-detail close-up showing the underside and anti-slip pads; 8) mood/lifestyle scene at night with the product on a desk, smoke rising, and ambient lamp light; 9) brand closing frame with the product as the hero plus Chinese marketing text. Add the overall header text “产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)” and a product subtitle naming it {argument name="product name" default="青花瓷烟灰缸"}. Give each of the 9 panels a Chinese scene title and timestamp, plus small descriptive Chinese copy beneath each image in the style of a professional commercial shot list. Use premium, realistic commercial photography throughout, consistent product identity, elegant Chinese aesthetic, and a clean high-end storyboard presentation.
+Using the provided reference image, transform the single casual product photo into a polished e-commerce TVC storyboard board for a {argument name="video duration" default="15-second"} ad in a {argument name="aspect ratio" default="9:16"} vertical format, presented as a 9-panel grid. Keep the same blue-and-white ceramic ashtray as the product base, but restage it across cinematic advertising shots with warm premium lighting, shallow depth of field, and a refined lifestyle desktop environment. Add a dark storyboard layout with Chinese titles and timing for each panel. Include exactly 9 scenes: 1) environment-establishing wide shot with desk, books, window, and the product placed in context; 2) hero product medium shot on the table; 3) extreme close-up of the blue floral craftsmanship pattern; 4) use case showing a hand placing a cigarette into the ashtray with visible smoke; 5) top-down capacity display showing multiple cigarette butts inside; 6) cleaning scene under running water in a sink with a hand holding the product; 7) bottom-detail close-up showing the underside and anti-slip pads; 8) mood/lifestyle scene at night with the product on a desk, smoke rising, and ambient lamp light; 9) brand closing frame with the product as the hero plus Chinese marketing text. Add the overall header text "产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)" and a product subtitle naming it {argument name="product name" default="青花瓷烟灰缸"}. Give each of the 9 panels a Chinese scene title and timestamp, plus small descriptive Chinese copy beneath each image in the style of a professional commercial shot list. Use premium, realistic commercial photography throughout, consistent product identity, elegant Chinese aesthetic, and a clean high-end storyboard presentation.
 ```
 
 <!-- Case 163: Burger hero image plus 9-cell ad storyboard (by @Gdgtify) -->
@@ -185,7 +186,7 @@ A top-down view of a neatly arranged Japanese bento box on a wooden table. The b
 **Prompt:**
 
 ```
-A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour markers, a tachymeter bezel, and visible crown and pushers on the right side. The watch has a black leather strap with bold red stitching along both edges and a sporty premium finish. To the right of the watch, place one black square presentation box slightly behind it, textured like leather, with red stitching around the lid and a silver embossed eye-shaped logo above the text “NESS STUDIO” and smaller red text “TRACK SURFACE.” At the top center of the composition, add the same silver eye logo with the words “NESS STUDIO” and smaller “BY NICOLAS.” Across the background, place one oversized blurred word, {argument name="headline text" default="PRECISION"}, in large gray capital letters spanning nearly the full width. The scene is set against a deep black background with cinematic red and white horizontal light streaks crossing behind the products from left to right, suggesting speed and racetrack energy. Use a glossy wet ground plane with reflective texture, catching red highlights and mirrorlike reflections beneath the watch and box. At the bottom center, add the text “CHRONOGRAPH SERIES” in clean white spaced capitals with thin red horizontal lines extending on both sides, and below it smaller red capitals reading {argument name="tagline text" default="ALSACE MADE"}. Color palette: black, charcoal gray, silver steel, vivid racing red, and a touch of white. Lighting should be high-contrast and premium, with crisp specular highlights on the metal case, subtle soft fill on the box, and moody shadows. Overall style: ultra-polished commercial product photography, luxury watch campaign, sharp focus on the products, sleek branding, high-end automotive aesthetic.
+A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour markers, a tachymeter bezel, and visible crown and pushers on the right side. The watch has a black leather strap with bold red stitching along both edges and a sporty premium finish. To the right of the watch, place one black square presentation box slightly behind it, textured like leather, with red stitching around the lid and a silver embossed eye-shaped logo above the text "NESS STUDIO" and smaller red text "TRACK SURFACE." At the top center of the composition, add the same silver eye logo with the words "NESS STUDIO" and smaller "BY NICOLAS." Across the background, place one oversized blurred word, {argument name="headline text" default="PRECISION"}, in large gray capital letters spanning nearly the full width. The scene is set against a deep black background with cinematic red and white horizontal light streaks crossing behind the products from left to right, suggesting speed and racetrack energy. Use a glossy wet ground plane with reflective texture, catching red highlights and mirrorlike reflections beneath the watch and box. At the bottom center, add the text "CHRONOGRAPH SERIES" in clean white spaced capitals with thin red horizontal lines extending on both sides, and below it smaller red capitals reading {argument name="tagline text" default="ALSACE MADE"}. Color palette: black, charcoal gray, silver steel, vivid racing red, and a touch of white. Lighting should be high-contrast and premium, with crisp specular highlights on the metal case, subtle soft fill on the box, and moody shadows. Overall style: ultra-polished commercial product photography, luxury watch campaign, sharp focus on the products, sleek branding, high-end automotive aesthetic.
 ```
 
 <!-- Case 150: Luxury Miniature Dubai City Model (by @silentempiredev) -->
@@ -211,7 +212,7 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 **Prompt:**
 
 ```
-Create a premium, square (1:1) product advertisement for a fictional luxury chocolate brand called Noirvelle Chocolat, inspired by high-end chocolate brands. The ad should feel like a high-end editorial campaign, combining luxury food photography, refined packaging design, and cinematic lighting. Use matte black wrapper, subtle gold foil, elegant serif typography, and realistic product rendering. Generate flavor variants such as Blood Orange Noir, Salted Pistachio Muse, and Raspberry Ember with distinct mood, color palette, ingredients, headline, and supporting copy. Keep the chocolate bar as hero centerpiece with subtle reflections, shallow depth of field, luxury minimalism, and a small CTA: “Shop the drop.”
+Create a premium, square (1:1) product advertisement for a fictional luxury chocolate brand called Noirvelle Chocolat, inspired by high-end chocolate brands. The ad should feel like a high-end editorial campaign, combining luxury food photography, refined packaging design, and cinematic lighting. Use matte black wrapper, subtle gold foil, elegant serif typography, and realistic product rendering. Generate flavor variants such as Blood Orange Noir, Salted Pistachio Muse, and Raspberry Ember with distinct mood, color palette, ingredients, headline, and supporting copy. Keep the chocolate bar as hero centerpiece with subtle reflections, shallow depth of field, luxury minimalism, and a small CTA: "Shop the drop."
 ```
 
 <!-- Case 170: Surreal Brand World Poster (by @SaasJunctionHQ) -->
@@ -346,7 +347,7 @@ She has delicate facial features, natural skin texture, subtle makeup, calm intr
 
 Lighting is rich golden hour sunlight, strong backlighting with lens flare, cinematic highlights, warm orange and amber tones, high dynamic range, soft shadows, volumetric light rays passing through hair and environment.
 
-Shot on a telephoto lens (85mm–135mm look), f/1.8 aperture, ultra-realistic, high detail, film still quality, natural color grading, slight film grain, soft bloom, editorial photography style, Vogue aesthetic.
+Shot on a telephoto lens (85mm-135mm look), f/1.8 aperture, ultra-realistic, high detail, film still quality, natural color grading, slight film grain, soft bloom, editorial photography style, Vogue aesthetic.
 
 Composition: rule of thirds, subject slightly off-center, crowd motion blur behind her, dynamic yet intimate framing.
 
@@ -381,7 +382,7 @@ GPT Image 2 on @SocialSight Prompt: Futuristic portrait of a young woman facing 
 **Prompt:**
 
 ```
-Today's Portrait by gpt image 2 ---prompt--- Japanese negative film aesthetic, rooftop summer scene, soft natural sunlight, slight overexposure highlights, low contrast, muted faded colors, subtle grain a stunning beautiful young woman with subtle sensual presence, natural body line, effortless charm wearing a slightly oversized white shirt loosely unbuttoned at the collar, paired with high-waisted shorts; shirt softly moving in the wind, occasionally slipping off one shoulder holding a cold glass bottle drink with condensation, one hand lifting it near her neck or cheek, fingers lightly touching the surface subject sitting or leaning on rooftop edge, body relaxed but with slight weight shift, one hand supporting behind, torso subtly opening, one knee bent and the other leg softly extended hair gently blown by summer wind, loose strands across face expression calm and distant, lips slightly parted, looking toward camera or slightly away open sky, minimal environment, a light plastic bag resting beside her moving slightly with the wind imperfect composition, quiet isolated mood, nostalgic and reflective, “memory-like realism”, subtle sensuality through natural gesture --2:3
+Today's Portrait by gpt image 2 ---prompt--- Japanese negative film aesthetic, rooftop summer scene, soft natural sunlight, slight overexposure highlights, low contrast, muted faded colors, subtle grain a stunning beautiful young woman with subtle sensual presence, natural body line, effortless charm wearing a slightly oversized white shirt loosely unbuttoned at the collar, paired with high-waisted shorts; shirt softly moving in the wind, occasionally slipping off one shoulder holding a cold glass bottle drink with condensation, one hand lifting it near her neck or cheek, fingers lightly touching the surface subject sitting or leaning on rooftop edge, body relaxed but with slight weight shift, one hand supporting behind, torso subtly opening, one knee bent and the other leg softly extended hair gently blown by summer wind, loose strands across face expression calm and distant, lips slightly parted, looking toward camera or slightly away open sky, minimal environment, a light plastic bag resting beside her moving slightly with the wind imperfect composition, quiet isolated mood, nostalgic and reflective, "memory-like realism", subtle sensuality through natural gesture --2:3
 ```
 
 <!-- Case 108: Paris Café Lifestyle Portrait (by @Sairah_0) -->
@@ -449,6 +450,39 @@ Analyze the uploaded image and preserve the original subject, composition, and l
 Ultra-realistic cinematic portrait of a young woman sitting by a rain-covered bus window at night, softly leaning her head against the glass with a melancholic expression. Messy bun, natural dewy skin, dark oversized coat, raindrops on window, blurred city-light bokeh, low-key teal-orange cinematic grade, shallow depth of field, candid composition, 85mm lens, f/1.8, film grain, soft glow, emotional storytelling, 8K detail.
 ```
 
+<!-- Case 117: Chibi 3D Mini Me Photo Effect (by @miratechtool) -->
+### Case 117: [Chibi 3D Mini Me Photo Effect](https://x.com/miratechtool/status/2051691169592033488) (by [@miratechtool](https://x.com/miratechtool))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case117/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Mini "chibi 3D" versions of the same person appear around the original photo - sitting, climbing, playing, interacting with objects - with realistic shadows and depth. Keep base image unchanged. Add soft handwritten text: "Little versions of me... living my quiet moments." Include tiny props text like "You got this ♡". Cinematic, cozy, viral aesthetic.
+```
+
+<!-- Case 118: Cinematic Stormy Seaside Portrait (by @Shinning1010) -->
+### Case 118: [Cinematic Stormy Seaside Portrait](https://x.com/Shinning1010/status/2051684366460354923) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case118/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Use the uploaded portrait only as a face reference. Keep the person's facial identity, face shape, eyes, nose, lips, and skin tone. Do not copy the original hairstyle, clothing, background, or lighting.
+
+Create a cinematic stormy seaside portrait, vertical 2:3. Subject slightly right of frame, body turned away, head turned back, clear side-profile / three-quarter face. Very long, messy, windblown light pastel pink hair, black sleeveless or thin-strap dress.
+
+Background: dark ocean, dramatic cloudy sky, distant horizon, many flying seagulls, including one large foreground seagull in the upper left. Strong cinematic lighting, bright rim light on the pale pink hair, refined high contrast, warm light breaking through clouds, subtle red ember-like particles, slight film grain, realistic photography, premium editorial quality, high visual impact.
+
+Negative Prompt:
+frontal face, wrong identity, copied hairstyle, braids, dark pink hair, red hair, magenta hair, short hair, bad anatomy, deformed face, bad hands, extra fingers, awkward pose, flat lighting, blurry face, low quality, anime, cartoon, CGI, malformed birds, duplicated birds, text, logo, watermark
+```
+
 ## 🎨 Poster & Illustration Cases
 
 > See all cases → [cases/poster.md](cases/poster.md)
@@ -463,7 +497,7 @@ Ultra-realistic cinematic portrait of a young woman sitting by a rain-covered bu
 **Prompt:**
 
 ```
-一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
+一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画:春熙路的串串香(一把竹签插着各种食材冒着热气)、宽窄巷子的三大炮(三个糯米团子飞向铜盘)、建设路的蛋烘糕(金黄酥脆正在翻面)、玉林路的火锅(九宫格锅翻滚冒泡)等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系(辣椒红、姜黄、翠绿)为主,图片比例 1:1。
 ```
 <!-- Case 79: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 79: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -505,11 +539,11 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 ```
 Create a high-end fitness boxing poster in a 3-panel collage layout.
 Top panel:
-A strong athletic woman boxer wearing a red boxing outfit (sports bra, shorts, boxing gloves, high socks, boxing shoes) leaning confidently against a worn heavy punching bag. Studio background with large bold red typography behind her (word like “FOCUS” or “IMPACT” in oversized distressed font). Clean minimal lighting, editorial fitness campaign style.
+A strong athletic woman boxer wearing a red boxing outfit (sports bra, shorts, boxing gloves, high socks, boxing shoes) leaning confidently against a worn heavy punching bag. Studio background with large bold red typography behind her (word like "FOCUS" or "IMPACT" in oversized distressed font). Clean minimal lighting, editorial fitness campaign style.
 Bottom left panel:
 Close-up portrait of the same woman (shoulders and face). Slight sweat, sharp jawline, focused expression looking sideways. Boxing gloves visible near frame. Background includes large faded typography partially visible.
 Bottom right panel:
-Full-body action pose of the woman throwing a punch at the punching bag. Dynamic stance, strong posture, gloves in motion. Same studio setup and typography in background (different word like “STRENGTH” or “DISCIPLINE”).
+Full-body action pose of the woman throwing a punch at the punching bag. Dynamic stance, strong posture, gloves in motion. Same studio setup and typography in background (different word like "STRENGTH" or "DISCIPLINE").
 Overall style:
 premium fitness brand campaign, dramatic studio lighting, soft shadows, high contrast, ultra realistic, sharp details, minimal color palette (red, white, neutral tones), clean composition, cinematic photography, 4k quality.
 ```
@@ -524,7 +558,7 @@ premium fitness brand campaign, dramatic studio lighting, soft shadows, high con
 **Prompt:**
 
 ```
-Redmi 17 pro new launch 🔥 Made with Gpt image 2 on Chatgpt Prompt : Ultra-realistic premium smartphone advertisement, featuring a confident young woman in her early 20s with fair skin and sharp facial features, wearing sleek black cat-eye sunglasses. She has long, thick braided hair styled into an extended oversized braid, colored in soft lavender/purple tones matching the product theme. She is captured in a dynamic low-angle cinematic pose, slightly twisting her torso while holding a Xiaomi 17 Pro smartphone toward the camera in a bold hero shot with strong forced perspective, the phone dominating the foreground. The smartphone features a matte metallic lavender/purple finish, minimalistic body with rounded corners, and a large rectangular camera module. The module includes two large camera lenses on the left, a circular secondary display on the right showing a minimal purple gradient clock UI, Leica branding near the camera, a clean flash strip, and subtle Xiaomi branding at the bottom. Outfit: fitted long-sleeve crop top in soft lavender/purple, paired with high-waisted muted grey/olive cargo pants, modern tech-fashion aesthetic. Background: clean minimal gradient transitioning from light grey to soft lavender/purple tones, with subtle blurred large-scale typography for depth. Lighting: soft studio lighting with neutral-to-cool tones, smooth skin illumination, controlled highlights on the phone edges, glossy reflections on camera lenses and display, minimal shadows, premium product photography style. Composition: low-angle shot for a powerful look, subject positioned slightly left, phone dominating the right foreground, clean negative space for branding. Futuristic UI overlays: thin minimal white/purple lines and nodes pointing to features with floating labels: “Leica Camera System” “Secondary Display Integration” “Ultra-Slim Premium Design” Glassmorphism panel (bottom-left, soft purple tint) listing: “Flagship Performance” “Advanced AI Imaging” “Fast Charging” “Next-Gen Xiaomi AI” Top corner text: “Xiaomi 17 Pro” in clean modern sans-serif typography. Style: high-end flagship smartphone advertisement, futuristic, minimal, elegant. Quality: 8K, ultra-detailed, sharp focus, HDR, cinematic commercial photography, realistic textures.
+Redmi 17 pro new launch 🔥 Made with Gpt image 2 on Chatgpt Prompt : Ultra-realistic premium smartphone advertisement, featuring a confident young woman in her early 20s with fair skin and sharp facial features, wearing sleek black cat-eye sunglasses. She has long, thick braided hair styled into an extended oversized braid, colored in soft lavender/purple tones matching the product theme. She is captured in a dynamic low-angle cinematic pose, slightly twisting her torso while holding a Xiaomi 17 Pro smartphone toward the camera in a bold hero shot with strong forced perspective, the phone dominating the foreground. The smartphone features a matte metallic lavender/purple finish, minimalistic body with rounded corners, and a large rectangular camera module. The module includes two large camera lenses on the left, a circular secondary display on the right showing a minimal purple gradient clock UI, Leica branding near the camera, a clean flash strip, and subtle Xiaomi branding at the bottom. Outfit: fitted long-sleeve crop top in soft lavender/purple, paired with high-waisted muted grey/olive cargo pants, modern tech-fashion aesthetic. Background: clean minimal gradient transitioning from light grey to soft lavender/purple tones, with subtle blurred large-scale typography for depth. Lighting: soft studio lighting with neutral-to-cool tones, smooth skin illumination, controlled highlights on the phone edges, glossy reflections on camera lenses and display, minimal shadows, premium product photography style. Composition: low-angle shot for a powerful look, subject positioned slightly left, phone dominating the right foreground, clean negative space for branding. Futuristic UI overlays: thin minimal white/purple lines and nodes pointing to features with floating labels: "Leica Camera System" "Secondary Display Integration" "Ultra-Slim Premium Design" Glassmorphism panel (bottom-left, soft purple tint) listing: "Flagship Performance" "Advanced AI Imaging" "Fast Charging" "Next-Gen Xiaomi AI" Top corner text: "Xiaomi 17 Pro" in clean modern sans-serif typography. Style: high-end flagship smartphone advertisement, futuristic, minimal, elegant. Quality: 8K, ultra-detailed, sharp focus, HDR, cinematic commercial photography, realistic textures.
 ```
 
 <!-- Case 178: Luxury Food Poster Template (by @SPEEDAI07) -->
@@ -550,7 +584,7 @@ GPT Image 2 on ChatGPT App Create a hyper-realistic vertical commercial food pho
 **Prompt:**
 
 ```
-Perfect for the summers GPT Image 2 on ChatGPT Prompt: Design a '4:5' product poster for an 'orange' juice 3d bottle using playful inflatable-plastic packaging surrealism where the bottle behaves like a squeezed toy object mid-pressure. The poster should communicate juiciness, tension, and tactile freshness through a bottle that visibly bulges, stretches, and compresses like a soft object being squeezed from the inside out. SUBJECT: A single bottle dominates the center-left, illustrated in a semi-3D stylized form (not photoreal). The bottle is visibly distorted—its midsection bulges outward while the neck is slightly compressed, as if internal juice pressure is pushing against the container walls. The liquid inside exaggerates this effect, forming rounded convex surfaces pressing against the plastic. The cap is slightly tilted from pressure. The bottle feels elastic, alive, and reactive rather than rigid. COMPOSITION: The composition mechanic is “internal pressure distortion”. The eye enters through the most inflated part of the bottle (center bulge), then follows curved tension lines outward toward stretched typography on the right side. The camera uses a slightly low, close-up perspective with mild fisheye distortion, amplifying the sense of pressure and expansion. The bottle leans diagonally into the frame as if pushing against invisible resistance. Negative space on the right is intentionally stretched and warped, echoing the bottle’s deformation. TYPOGRAPHY: Headline: “SQUEEZE BACK” in thick, rounded, inflated lettering that mimics air-filled plastic. The type is physically distorted—letters stretch horizontally near the bottle and compress toward the edges, as if affected by the same pressure force. The headline sits to the right of the bottle but partially overlaps its bulging edge. Subheadline: “Juice that pushes back.” in a narrow condensed sans, straight and rigid, contrasting the soft headline. Small circular microcopy labels (e.g., “100% organic”, “no added sugar”) appear like printed stickers slightly warped by the surface tension. LIGHTING / GRAPHIC TREATMENT: Soft studio lighting adapted for stylized rendering—broad diffused highlights across curved surfaces, subtle specular streaks that follow the deformation. No realistic reflections—only controlled, simplified highlight bands that emphasize volume and elasticity. COLORS: 'orange' juice bottle color and 3d header text. Small accents of 'bright lime green' for sticker elements. High contrast between glowing orange and dark surroundings. BACKGROUND: A smooth dark gradient field with subtle radial tension lines expanding outward from the bottle, like invisible pressure waves. No texture clutter—clean but dynamically warped space. STYLE: Neo-pop surreal product illustration with inflatable material logic, playful distortion, and high-impact commercial clarity. FINISH: Soft plastic-like rendering, clean edges, controlled gradient transitions, no noise or grain, polished but intentionally stylized surface behavior. FOOTER: A compact floating sticker cluster in the bottom-right corner containing a small brand placeholder, a circular “fresh batch” seal, and minimal product info arranged like packaging labels. NEGATIVE: Avoid realistic photography, static bottle poses, generic splash effects, centered symmetry, rigid typography, template layouts, clutter, excessive gloss, low detail, and stock advertising aesthetics.
+Perfect for the summers GPT Image 2 on ChatGPT Prompt: Design a '4:5' product poster for an 'orange' juice 3d bottle using playful inflatable-plastic packaging surrealism where the bottle behaves like a squeezed toy object mid-pressure. The poster should communicate juiciness, tension, and tactile freshness through a bottle that visibly bulges, stretches, and compresses like a soft object being squeezed from the inside out. SUBJECT: A single bottle dominates the center-left, illustrated in a semi-3D stylized form (not photoreal). The bottle is visibly distorted-its midsection bulges outward while the neck is slightly compressed, as if internal juice pressure is pushing against the container walls. The liquid inside exaggerates this effect, forming rounded convex surfaces pressing against the plastic. The cap is slightly tilted from pressure. The bottle feels elastic, alive, and reactive rather than rigid. COMPOSITION: The composition mechanic is "internal pressure distortion". The eye enters through the most inflated part of the bottle (center bulge), then follows curved tension lines outward toward stretched typography on the right side. The camera uses a slightly low, close-up perspective with mild fisheye distortion, amplifying the sense of pressure and expansion. The bottle leans diagonally into the frame as if pushing against invisible resistance. Negative space on the right is intentionally stretched and warped, echoing the bottle's deformation. TYPOGRAPHY: Headline: "SQUEEZE BACK" in thick, rounded, inflated lettering that mimics air-filled plastic. The type is physically distorted-letters stretch horizontally near the bottle and compress toward the edges, as if affected by the same pressure force. The headline sits to the right of the bottle but partially overlaps its bulging edge. Subheadline: "Juice that pushes back." in a narrow condensed sans, straight and rigid, contrasting the soft headline. Small circular microcopy labels (e.g., "100% organic", "no added sugar") appear like printed stickers slightly warped by the surface tension. LIGHTING / GRAPHIC TREATMENT: Soft studio lighting adapted for stylized rendering-broad diffused highlights across curved surfaces, subtle specular streaks that follow the deformation. No realistic reflections-only controlled, simplified highlight bands that emphasize volume and elasticity. COLORS: 'orange' juice bottle color and 3d header text. Small accents of 'bright lime green' for sticker elements. High contrast between glowing orange and dark surroundings. BACKGROUND: A smooth dark gradient field with subtle radial tension lines expanding outward from the bottle, like invisible pressure waves. No texture clutter-clean but dynamically warped space. STYLE: Neo-pop surreal product illustration with inflatable material logic, playful distortion, and high-impact commercial clarity. FINISH: Soft plastic-like rendering, clean edges, controlled gradient transitions, no noise or grain, polished but intentionally stylized surface behavior. FOOTER: A compact floating sticker cluster in the bottom-right corner containing a small brand placeholder, a circular "fresh batch" seal, and minimal product info arranged like packaging labels. NEGATIVE: Avoid realistic photography, static bottle poses, generic splash effects, centered symmetry, rigid typography, template layouts, clutter, excessive gloss, low detail, and stock advertising aesthetics.
 ```
 
 <!-- Case 180: Emerald Street Fashion Poster (by @harboriis) -->
@@ -576,7 +610,7 @@ GPT Image 2 on ChatGPT Prompt: Create a bold street-fashion poster featuring a h
 **Prompt:**
 
 ```
-PixPretty @PixPrettyAI with GPT Image 2 has been quietly setting a new standard over the past few days Prompt : A premium sports fashion campaign featuring a confident athletic woman wearing a red and white retro roller skating outfit, styled in a minimal studio environment with bold red and beige tones. Top frame: full-body shot of the model sitting casually on a concrete ledge, wearing white roller skates with red wheels, one leg extended and the other bent, looking sideways with a strong editorial pose. Background features large bold typography reading “FREEDOM” in oversized letters. Bottom left frame: close-up portrait of the model with glowing skin, slicked-back hair, and sharp lighting emphasizing facial structure. Minimal text “OWN YOUR PACE” placed beside her. Bottom right frame: dynamic action pose of the model skating low to the ground, hand reaching forward, showcasing motion and strength. Background includes minimal graphic lines and text “BALANCE FLOW FREEDOM”. Style: high-end commercial photography, sharp details, cinematic lighting, glossy skin highlights, strong shadows, ultra-clean composition, brand campaign aesthetic, Nike/Adidas inspired, 1:1 layout, grid collage format, editorial typography, bold color blocking, 4K resolution.
+PixPretty @PixPrettyAI with GPT Image 2 has been quietly setting a new standard over the past few days Prompt : A premium sports fashion campaign featuring a confident athletic woman wearing a red and white retro roller skating outfit, styled in a minimal studio environment with bold red and beige tones. Top frame: full-body shot of the model sitting casually on a concrete ledge, wearing white roller skates with red wheels, one leg extended and the other bent, looking sideways with a strong editorial pose. Background features large bold typography reading "FREEDOM" in oversized letters. Bottom left frame: close-up portrait of the model with glowing skin, slicked-back hair, and sharp lighting emphasizing facial structure. Minimal text "OWN YOUR PACE" placed beside her. Bottom right frame: dynamic action pose of the model skating low to the ground, hand reaching forward, showcasing motion and strength. Background includes minimal graphic lines and text "BALANCE FLOW FREEDOM". Style: high-end commercial photography, sharp details, cinematic lighting, glossy skin highlights, strong shadows, ultra-clean composition, brand campaign aesthetic, Nike/Adidas inspired, 1:1 layout, grid collage format, editorial typography, bold color blocking, 4K resolution.
 ```
 
 <!-- Case 182: Futuristic Sportswear Editorial Poster (by @gold_force_guri) -->
@@ -589,7 +623,7 @@ PixPretty @PixPrettyAI with GPT Image 2 has been quietly setting a new standard 
 **Prompt:**
 
 ```
-GPT image 2 on @SocialSight Prompt: High-fashion futuristic sportswear editorial poster, full-body female model in dynamic wide-leg stance, oversized white minimalist sweatshirt with voluminous sleeves, glossy translucent parachute pants, chunky white-orange athletic sneakers, sleek messy updo hairstyle, gold statement earrings, soft natural makeup, confident editorial expression, studio fashion photography, centered composition, smooth neutral beige gradient background with large abstract glossy red-pink organic 3D inflatable blob shapes behind model, bold oversized white typography “just” partially behind subject, premium athletic brand campaign aesthetic, ultra-clean lighting, soft diffused studio shadows, luxury streetwear advertisement, contemporary magazine cover design, minimalist layout, subtle futuristic graphic microtext, highly polished commercial fashion retouching, sharp focus, cinematic soft contrast, photorealistic, high detail, 8k
+GPT image 2 on @SocialSight Prompt: High-fashion futuristic sportswear editorial poster, full-body female model in dynamic wide-leg stance, oversized white minimalist sweatshirt with voluminous sleeves, glossy translucent parachute pants, chunky white-orange athletic sneakers, sleek messy updo hairstyle, gold statement earrings, soft natural makeup, confident editorial expression, studio fashion photography, centered composition, smooth neutral beige gradient background with large abstract glossy red-pink organic 3D inflatable blob shapes behind model, bold oversized white typography "just" partially behind subject, premium athletic brand campaign aesthetic, ultra-clean lighting, soft diffused studio shadows, luxury streetwear advertisement, contemporary magazine cover design, minimalist layout, subtle futuristic graphic microtext, highly polished commercial fashion retouching, sharp focus, cinematic soft contrast, photorealistic, high detail, 8k
 ```
 
 <!-- Case 183: Streetwear Headphones Ad Poster (by @Strength04_X) -->
@@ -628,7 +662,116 @@ make an anime 3x3 grid storyboard of a ninja avoiding multiple strikes of a japa
 **Prompt:**
 
 ```
-Transform the scene into a playful crayon-style illustration, like a 10-year-old’s drawing. Use wobbly lines, imperfect shapes, and visible crayon textures on a clean white paper background. Apply bright pastel and vibrant colors, letting them go slightly outside the lines. Add small lively doodles like smiling clouds, stars, candy, and tiny castles. Keep it simple but expressive, warm, nostalgic, slightly messy, and full of innocent charm.
+Transform the scene into a playful crayon-style illustration, like a 10-year-old's drawing. Use wobbly lines, imperfect shapes, and visible crayon textures on a clean white paper background. Apply bright pastel and vibrant colors, letting them go slightly outside the lines. Add small lively doodles like smiling clouds, stars, candy, and tiny castles. Keep it simple but expressive, warm, nostalgic, slightly messy, and full of innocent charm.
+```
+
+<!-- Case 190: Samsung Galaxy S25 Infographic Poster (by @bmx_ai13) -->
+### Case 190: [Samsung Galaxy S25 Infographic Poster](https://x.com/bmx_ai13/status/2051692833258852586) (by [@bmx_ai13](https://x.com/bmx_ai13))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case190/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a premium futuristic infographic poster for Samsung Galaxy S25 in a vertical 3:4 aspect ratio. Center the Galaxy S25 phone lineup with multiple sleek smartphones shown from front and back angles, including a silver S Pen beside the main phone. Use a deep cosmic blue space background with stars, glowing light trails, luminous orbit rings, reflective glass floor, and distant mountain silhouettes for depth.
+
+At the top, add bold clean text: "SAMSUNG", large headline "Galaxy S25", subheadline "Galaxy AI", and tagline "Intelligence in Motion."
+
+Design the poster as a modern tech infographic with thin glowing connector lines, circular icon badges, and clean feature callouts around the phones. Add these sections:
+
+Galaxy AI: Smarter every day
+Pro Grade Camera: Capture every detail
+Next Gen Performance: Power that evolves
+Built to Last: Stronger inside and out
+Brilliant Display: Immersive edge to edge viewing
+S Pen Support: Create, sketch, and work faster
+
+At the bottom, create a glowing spec bar with small icons and short feature blocks:
+
+Premium Design: Sleek. Refined. Timeless.
+50MP High-Resolution Camera: Stunning clarity, day or night.
+Snapdragon 8 Elite for Galaxy: Built for speed. Ready for anything.
+All Day Battery: More power. Less worry.
+IP68 Water & Dust Resistance: Adventure ready. Worry free.
+Storage Options: Up to 1TB storage.
+
+Style: ultra premium Samsung style product advertising, clean futuristic UI design, metallic typography, blue white neon glow, realistic phone render, sharp readable typography, cinematic lighting, glossy reflections, high end commercial poster, no humans, no messy text, no watermark.
+```
+
+<!-- Case 191: Food Photography with Doodle Characters (by @Taaruk_) -->
+### Case 191: [Food Photography with Doodle Characters](https://x.com/Taaruk_/status/2051690647997088110) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case191/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt 1 (Beach café + cute doodle characters):**
+
+```
+Aesthetic beachside café scene with a wooden table overlooking the ocean, bright daylight, soft shadows, tropical vibe. A delicious bowl of food and a coconut drink placed on the table. Add cute illustrated cartoon characters (fox, bunny, cat) sitting and relaxing around the food, with tiny hand-drawn doodles (hearts, sparkles, motion lines). Cozy wholesome mood, playful storytelling, mix of real photography and 2D illustration overlay, soft warm color grading, shallow depth of field, ultra-realistic food details, 4K.
+```
+
+**Prompt 2 (Food flatlay + playful illustrated annotations):**
+
+```
+Top-down vibrant food flatlay featuring multiple crispy fried dishes (fish, shrimp, chicken) with dipping sauces on a dark textured table. Add playful hand-drawn doodles and tiny cartoon characters interacting with the food (surfing shrimp, holding signs, cooking, playing). Include fun handwritten labels like "Golden Crunch", "Perfect Pairing", "Champion Fish". Bright colors, high contrast, crispy texture details, steam effects, dynamic composition, social media food ad style, ultra-realistic, 4K.
+```
+
+**Prompt 3 (Cozy coffee + illustrated storytelling):**
+
+```
+Warm cozy coffee scene on a rustic wooden table with a cup of latte art on a yellow saucer, coffee beans and cinnamon sticks around, small bonsai plant nearby. Add cute animated doodle characters (coffee bean with wings, cat barista painting latte art) and flowing illustrated steam forming magical shapes. Include soft handwritten typography: "Crafted Comfort – Your Daily Ritual". Golden hour lighting, warm tones, soft glow, dreamy atmosphere, shallow depth of field, ultra-realistic + 2D illustration blend, 4K.
+```
+
+<!-- Case 192: Dynamic Sports Poster (by @SPEEDAI07) -->
+### Case 192: [Dynamic Sports Poster](https://x.com/SPEEDAI07/status/2051679223715365331) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case192/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A dynamic sports poster of a professional football player mid-strike, captured in a dramatic low-angle perspective, stadium lights blazing through light rain, water droplets frozen in motion, intense facial expression, muscular tension visible, cinematic lighting, high contrast shadows, ultra-detailed textures, motion blur on ball, sharp focus on athlete, bold typography overlay: "NO EXCUSES. JUST RESULTS.", modern sports branding style, Nike-style campaign aesthetic, 35mm lens, ultra-realistic
+```
+
+<!-- Case 193: Luxury Brand Ad Campaign Poster (by @TechieBySA) -->
+### Case 193: [Luxury Brand Ad Campaign Poster](https://x.com/TechieBySA/status/2051676877794816074) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case193/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A world-class luxury advertising campaign poster, 4:5 ratio, for [BRAND/PRODUCT], shot in a high-end photography studio, [COLOR] dramatic lighting with vivid color gels casting bold shadows, single hero product floating center frame with hyper-reflective surface catching light streaks, cinematic lens flare, deep rich background with gradient bloom, chrome and glass material feel, oversized bold editorial typography with the brand name, razor-sharp tagline in elegant thin font, extreme detail and texture on the product, smoke or liquid elements subtly in background, feels like Apple x Nike x Lamborghini had a campaign, shot on Hasselblad, photorealistic, magazine cover quality
+```
+
+<!-- Case 194: Product Photography Juice Ad (by @Jawad_Rahman_) -->
+### Case 194: [Product Photography Juice Ad](https://x.com/Jawad_Rahman_/status/2051671878608228630) (by [@Jawad_Rahman_](https://x.com/Jawad_Rahman_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case194/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A highly realistic low-angle shot of a confident young woman with long, vibrant red hair, holding a watermelon juice can close to the camera in a dramatic perspective. The can appears large in the foreground due to forced perspective, with sharp focus on the product. The woman has fair skin, natural makeup, and a subtle confident expression, looking slightly down toward the camera.
+
+She is wearing a fitted blue sleeveless crop top and light gray sweatpants. Her posture is relaxed yet bold, with one arm extended forward holding the can.
+
+The background is a smooth, colorful gradient blending blue, orange, and red tones, creating a vibrant summer aesthetic. Bright natural sunlight illuminates the scene with soft shadows and high contrast, giving a clean commercial photography look.
+
+The juice can design features a watermelon theme with red and green colors, minimal modern typography, and realistic texture details like condensation droplets.
+
+Ultra-detailed, photorealistic, 8K resolution, sharp focus, shallow depth of field, professional product photography, vibrant colors, cinematic lighting.
+
+Add text: "Your name" in small clean white font at the upper right corner.
 ```
 
 ## 🧍 Character Design Cases
@@ -645,11 +788,11 @@ Transform the scene into a playful crayon-style illustration, like a 10-year-old
 **Prompt:**
 
 ```
-基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。
-・包含三视图：正面、侧面和背面
+基于此角色和背景,请制作一份类似官方设定资料的角色资料卡。
+・包含三视图:正面、侧面和背面
 ・添加角色面部表情的变化・分解并展示服装和装备的详细部分
 ・添加色板・包含世界观设定的简要说明
-・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格
+・总体上,使用有组织的布局(白色背景,插画风格)高分辨率、专业概念艺术风格
 ```
 <!-- Case 7: Mecha Girl Sea-City Key Visual (by @old_pgmrs_will) -->
 ### Case 7: [Mecha Girl Sea-City Key Visual](https://x.com/old_pgmrs_will/status/2046144801071079612) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
@@ -674,7 +817,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 **Prompt:**
 
 ```
-{argument name="game" default="gta 6"} in {argument name="location" default="Bangalore’s market flower"} in India
+{argument name="game" default="gta 6"} in {argument name="location" default="Bangalore's market flower"} in India
 ```
 
 ## 📱 UI & Social Media Mockup Cases
@@ -691,7 +834,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 **Prompt:**
 
 ```
-用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
+用这种风格帮我生成一套UI设计系统,包含网页、移动端、卡片、控件、按钮 以及其它
 ```
 <!-- Case 38: Cyberpunk Neon UI Design System (by @AZLnfvp) -->
 ### Case 38: [Cyberpunk Neon UI Design System](https://x.com/AZLnfvp/status/2046468976092533180) (by [@AZLnfvp](https://x.com/AZLnfvp))
@@ -773,15 +916,15 @@ Aspect Ratio: 3:4
 ```
 Create a high-fashion editorial beverage campaign set on a minimalist rooftop at golden hour. Ultra-clean composition with strong negative space, warm sun flare, and soft shadows.
 
-A stylish male model with sharp features and effortless confidence is posed like a fashion editorial—slightly turned away, sipping from the can. He wears elevated linen tailoring in monochrome cream tones, partially unbuttoned, with subtle jewelry.
+A stylish male model with sharp features and effortless confidence is posed like a fashion editorial-slightly turned away, sipping from the can. He wears elevated linen tailoring in monochrome cream tones, partially unbuttoned, with subtle jewelry.
 
-Foreground: a sculptural stone pedestal holding a large hero can of AURELIS – Blood Orange Basil, hyper-detailed with condensation and botanical artwork.
+Foreground: a sculptural stone pedestal holding a large hero can of AURELIS - Blood Orange Basil, hyper-detailed with condensation and botanical artwork.
 
 Typography is bold, oversized, and editorial: GOOD DAYS IN EVERY CAN
 
 Use refined serif typography with dramatic scale and spacing. Keep layout asymmetrical and magazine-like.
 
-Add subtle microcopy: “Botanical. Bright. Made to sparkle.”
+Add subtle microcopy: "Botanical. Bright. Made to sparkle."
 
 Minimal icons (thin line style): LOW SUGAR / REAL FRUIT / LIGHTLY SPARKLING / 12 OZ
 
@@ -808,13 +951,13 @@ Background: soft gradient sky with warm golden-hour tones, minimal distractions,
 
 A relaxed male model sits casually, taking a sip from the can. Wardrobe: simple, modern, neutral linen outfit.
 
-Centerpiece: a large floating or pedestal-mounted can of AURELIS – Blood Orange Basil, perfectly lit with soft reflections and visible condensation.
+Centerpiece: a large floating or pedestal-mounted can of AURELIS - Blood Orange Basil, perfectly lit with soft reflections and visible condensation.
 
 Typography: SUN IN EVERY SIP
 
 Use modern minimal typography, centered, with generous spacing.
 
-Supporting line: “Real botanicals. Effortless refreshment.”
+Supporting line: "Real botanicals. Effortless refreshment."
 
 Icons aligned horizontally: LOW SUGAR • REAL FRUIT • LIGHTLY SPARKLING • 12 OZ
 
@@ -847,7 +990,7 @@ Typography: DRINK THE SUN
 
 Use large, expressive typography with strong contrast (deep green + burnt orange), slightly overlapping layout.
 
-Tagline: “Fresh. Bright. Addictive.”
+Tagline: "Fresh. Bright. Addictive."
 
 Feature icons arranged dynamically: LOW SUGAR
 REAL FRUIT
@@ -878,7 +1021,7 @@ Aspect ratio: vertical (9:16 preferred)
 **Prompt:**
 
 ```
-This Storyboard sheet use for this video created with GPT image 2 Storyboard sheet prompt: A professional hand drawn sketch storyboard sheet, pencil and ink illustration style, rough artistic linework, cross-hatching for shadows, loose expressive strokes, monochrome black and white on aged cream/off-white paper texture background, 2x2 grid layout with four equal storyboard panels bordered by thick hand-drawn black ink frames. Top-left panel sketch: abandoned rusted cargo ship at dock, heavy hatching for rust texture, broken railings, algae, seagulls, no humans, dark moody pencil shading, handwritten label below: "SCENE 01 — ABANDONED STATE | Static wide dock shot | Overcast | No humans". Top-right panel sketch: same ship with workers using pressure washers, dynamic water spray motion lines, figures in safety gear, debris piles, handwritten label: "SCENE 02 — CLEANING & STRIP-DOWN | Pressure wash + debris clear | Cloudy daylight". Bottom-left panel sketch: welding sparks as burst star lines, scaffolding structure, worker figures grinding and painting, primer sections with hatching, handwritten label: "SCENE 03 — REPAIR & REBUILD | Welding sparks + scaffolding | Primer applied". Bottom-right panel sketch: fully restored ship, clean hull, workers standing back, golden hour rays as radiating diagonal lines, handwritten label: "SCENE 04 — FULL RESTORATION | Final paint + golden hour | Completion". Bold hand-lettered title at top: "SEA HARVEST VALLETTA — RESTORATION STORYBOARD". Handwritten production notes at bottom: "Cam: Static Wide-Angle Dock | Lens: Wide | Progression: Linear | Style: Photorealistic". Pencil graphite texture, ink pen outlines, rough paper feel, professional film storyboard aesthetic.
+This Storyboard sheet use for this video created with GPT image 2 Storyboard sheet prompt: A professional hand drawn sketch storyboard sheet, pencil and ink illustration style, rough artistic linework, cross-hatching for shadows, loose expressive strokes, monochrome black and white on aged cream/off-white paper texture background, 2x2 grid layout with four equal storyboard panels bordered by thick hand-drawn black ink frames. Top-left panel sketch: abandoned rusted cargo ship at dock, heavy hatching for rust texture, broken railings, algae, seagulls, no humans, dark moody pencil shading, handwritten label below: "SCENE 01 - ABANDONED STATE | Static wide dock shot | Overcast | No humans". Top-right panel sketch: same ship with workers using pressure washers, dynamic water spray motion lines, figures in safety gear, debris piles, handwritten label: "SCENE 02 - CLEANING & STRIP-DOWN | Pressure wash + debris clear | Cloudy daylight". Bottom-left panel sketch: welding sparks as burst star lines, scaffolding structure, worker figures grinding and painting, primer sections with hatching, handwritten label: "SCENE 03 - REPAIR & REBUILD | Welding sparks + scaffolding | Primer applied". Bottom-right panel sketch: fully restored ship, clean hull, workers standing back, golden hour rays as radiating diagonal lines, handwritten label: "SCENE 04 - FULL RESTORATION | Final paint + golden hour | Completion". Bold hand-lettered title at top: "SEA HARVEST VALLETTA - RESTORATION STORYBOARD". Handwritten production notes at bottom: "Cam: Static Wide-Angle Dock | Lens: Wide | Progression: Linear | Style: Photorealistic". Pencil graphite texture, ink pen outlines, rough paper feel, professional film storyboard aesthetic.
 ```
 
 <!-- Case 122: 前后端数据库 SaaS 信息图 (by @alantech_) -->
@@ -891,7 +1034,7 @@ This Storyboard sheet use for this video created with GPT image 2 Storyboard she
 **Prompt:**
 
 ```
-gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（用户看到的部分） 是什么：前端就是界面，是用户能看见、能点、能操作的部分。 在哪里：网页、小程序、App 的界面。 用什么做：HTML（结构）、CSS（样式）、JavaScript（交互）。 02 后端（背后处理的部分） 是什么：后端就是幕后大脑，负责逻辑和运算。 在哪里：服务器上，用户看不见。 作用： 处理登录注册 计算价格、推荐商品 接收前端请求、返回数据 常用的编程语言：Java、Python、Go、JavaScript（Node.js） 03 数据库（记忆的部分） 是什么：数据库就是用来存储和管理数据的。 存什么：账号、密码、订单、库存… 常见的数据库： MySQL、PostgreSQL（关系型，像表格一样） MongoDB（文档型，像文件夹一样） 04 SaaS（软件即服务） 是什么：SaaS = Software as a Service（软件即服务）。 核心特点： 打开网页/小程序/APP就能用 按月或按年订阅 常见形式：网站、移动 App、小程序都可以是 SaaS。 05 总结 前端：用户看到和操作的界面 后端：背后运行的逻辑和计算 数据库：存放和管理数据的地方 SaaS：把软件做成服务，用户随时通过网络使用 前端展示 → 后端处理 → 数据库存储 → SaaS 是交付方式 帮我针对上面的内容画一张易于理解的图
+gpt image 2生图能力真的恐怖啊,这是我的提示词: 01 前端(用户看到的部分) 是什么:前端就是界面,是用户能看见、能点、能操作的部分。 在哪里:网页、小程序、App 的界面。 用什么做:HTML(结构)、CSS(样式)、JavaScript(交互)。 02 后端(背后处理的部分) 是什么:后端就是幕后大脑,负责逻辑和运算。 在哪里:服务器上,用户看不见。 作用: 处理登录注册 计算价格、推荐商品 接收前端请求、返回数据 常用的编程语言:Java、Python、Go、JavaScript(Node.js) 03 数据库(记忆的部分) 是什么:数据库就是用来存储和管理数据的。 存什么:账号、密码、订单、库存... 常见的数据库: MySQL、PostgreSQL(关系型,像表格一样) MongoDB(文档型,像文件夹一样) 04 SaaS(软件即服务) 是什么:SaaS = Software as a Service(软件即服务)。 核心特点: 打开网页/小程序/APP就能用 按月或按年订阅 常见形式:网站、移动 App、小程序都可以是 SaaS。 05 总结 前端:用户看到和操作的界面 后端:背后运行的逻辑和计算 数据库:存放和管理数据的地方 SaaS:把软件做成服务,用户随时通过网络使用 前端展示 → 后端处理 → 数据库存储 → SaaS 是交付方式 帮我针对上面的内容画一张易于理解的图
 ```
 
 <!-- Case 123: 个人形象分析图卡 (by @you1873118) -->
@@ -904,7 +1047,7 @@ gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（�
 **Prompt:**
 
 ```
-GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试了下，效果也太强了 如果放在一年前 你可能三天三夜的ComfyUI工作流 才能做出来 提示词： 请根据我上传的人像照片，做一套个人形象分析图卡，包含发型、妆容、色彩和珠宝。要求：保留五官脸型肤色，不要过度修图，所有变化在同一张脸真实展示，风格干净高级。发型：长短、卷直、刘海，对比最适合/ 普通/不建议（显脸小、显老）妆容：眉眼鼻唇分析，标签（自然、提气色、柔和）色彩：不同颜色上身，对比推荐/普通/不适合（显白、显老）珠宝：珍珠、翡翠、红蓝宝、钻石、黄金，对比推荐/普通/不建议 整体：视觉为主，文字简短，4:5比例
+GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试了下,效果也太强了 如果放在一年前 你可能三天三夜的ComfyUI工作流 才能做出来 提示词: 请根据我上传的人像照片,做一套个人形象分析图卡,包含发型、妆容、色彩和珠宝。要求:保留五官脸型肤色,不要过度修图,所有变化在同一张脸真实展示,风格干净高级。发型:长短、卷直、刘海,对比最适合/ 普通/不建议(显脸小、显老)妆容:眉眼鼻唇分析,标签(自然、提气色、柔和)色彩:不同颜色上身,对比推荐/普通/不适合(显白、显老)珠宝:珍珠、翡翠、红蓝宝、钻石、黄金,对比推荐/普通/不建议 整体:视觉为主,文字简短,4:5比例
 ```
 
 <!-- Case 124: 12-Panel Storyboard Poster (by @bmx_ai13) -->
@@ -917,7 +1060,7 @@ GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试�
 **Prompt:**
 
 ```
-A super simple workflow: 2 character images → GPT Image 2.0 storyboard → Seedance 2.0 animation. Just upload two character images and use the prompt below in GPT Image 2.0 to generate a full storyboard on a single page. Prompt: Create a clean, colorful storyboard poster in a 3x4 grid layout with 12 panels on a single page. Title at the top: "[MAIN TITLE]" Each panel must include: a scene number in a small circle, a short scene title, a colorful illustrated image, a 1–2 line description under the image. Main characters must remain visually consistent across all 12 panels: Character 1: [describe main character in detail] Character 2: [describe second character in detail] Theme/story: [overall story theme] Scene breakdown: [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] Design style: cute 3D animated storybook style, warm emotional lighting, bright colors, soft shadows, child-friendly, clean panel borders, readable typography, neat poster composition, high detail. Important: Keep all 12 panels inside one single image. Make the layout clean and balanced. Keep the characters consistent in face, outfit, and colors. Make the text readable and properly placed. No cropped panels. No extra characters unless mentioned. Then upload that storyboard to Seedance 2.0 and use this prompt: Prompt: Generate a scene using the shots in the uploaded film storyboard. No text on screen. That’s it.
+A super simple workflow: 2 character images → GPT Image 2.0 storyboard → Seedance 2.0 animation. Just upload two character images and use the prompt below in GPT Image 2.0 to generate a full storyboard on a single page. Prompt: Create a clean, colorful storyboard poster in a 3x4 grid layout with 12 panels on a single page. Title at the top: "[MAIN TITLE]" Each panel must include: a scene number in a small circle, a short scene title, a colorful illustrated image, a 1-2 line description under the image. Main characters must remain visually consistent across all 12 panels: Character 1: [describe main character in detail] Character 2: [describe second character in detail] Theme/story: [overall story theme] Scene breakdown: [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] [Scene title] - [what happens] Design style: cute 3D animated storybook style, warm emotional lighting, bright colors, soft shadows, child-friendly, clean panel borders, readable typography, neat poster composition, high detail. Important: Keep all 12 panels inside one single image. Make the layout clean and balanced. Keep the characters consistent in face, outfit, and colors. Make the text readable and properly placed. No cropped panels. No extra characters unless mentioned. Then upload that storyboard to Seedance 2.0 and use this prompt: Prompt: Generate a scene using the shots in the uploaded film storyboard. No text on screen. That's it.
 ```
 
 <!-- Case 125: 人物时间轴信息图 (by @crayon1267) -->
@@ -943,7 +1086,7 @@ Create a 9:16 infographic of [PERSON NAME]. Photorealistic portrait + career tim
 **Prompt:**
 
 ```
-Minimalist 4x4 "GET READY WITH ME — party edition", beige aesthetic, same woman, modest classy outfit, 16 steps (skincare→final look), soft light, clean editorial style.
+Minimalist 4x4 "GET READY WITH ME - party edition", beige aesthetic, same woman, modest classy outfit, 16 steps (skincare→final look), soft light, clean editorial style.
 ```
 
 <!-- Case 127: Xiaohongshu Doodle Photo Edit (by @ChillaiKalan__) -->
@@ -1001,51 +1144,51 @@ Generate an image of the most significant event of 2020
 **Prompt:**
 
 ```
-一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。
-剖开、展开、固定——如同博物馆的珍贵藏品，
+一颗/一块/一枚【食物名称】,以博物学大师发现野外标本的方式解剖。
+剖开、展开、固定--如同博物馆的珍贵藏品,
 却以卡拉瓦乔为《国家地理》掌镜时的光线照亮。
 每一个内部结构都以自身的材质真相发光。
 截面锋利得近乎暴力。内部美丽得近乎神圣。
-画面中呈现完整标本：
-一半保持原状，展示【外表面描述：质感/颜色/纹理】；
-另一半剖开至核心，【内部核心结构描述：最重要的1—2个内部视觉特征】清晰可见。
-【补充1—2句该食物最具视觉张力的横截面细节描述】
-背景：纯粹的黑丝绒。
-【食物名称】悬浮其中，如同某件珍贵而危险的事物。
-标注文字紧贴结构边缘，手写感衬线字体，绝不悬空飘浮。
-画面包含以下标注，每处标注三行：第一行结构名称，第二行成分数据，第三行一句人话：
+画面中呈现完整标本:
+一半保持原状,展示【外表面描述:质感/颜色/纹理】;
+另一半剖开至核心,【内部核心结构描述:最重要的1-2个内部视觉特征】清晰可见。
+【补充1-2句该食物最具视觉张力的横截面细节描述】
+背景:纯粹的黑丝绒。
+【食物名称】悬浮其中,如同某件珍贵而危险的事物。
+标注文字紧贴结构边缘,手写感衬线字体,绝不悬空飘浮。
+画面包含以下标注,每处标注三行:第一行结构名称,第二行成分数据,第三行一句人话:
 【结构01名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
+【成分/数据说明】
+【这个结构在做什么,为什么重要】
 
 【结构02名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
+【成分/数据说明】
+【这个结构在做什么,为什么重要】
 【结构03名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
+【成分/数据说明】
+【这个结构在做什么,为什么重要】
 【结构04名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
+【成分/数据说明】
+【这个结构在做什么,为什么重要】
 【结构05名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
+【成分/数据说明】
+【这个结构在做什么,为什么重要】
 
 【结构06名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
+【成分/数据说明】
+【这个结构在做什么,为什么重要】
 省略其他如果有继续保持这个格式
-主标题，左上角，暖象牙白大写字体：
+主标题,左上角,暖象牙白大写字体:
 【食物名称】·解剖
 
-斜体副标题紧随其下：
-【一句揭示这种食物本质的话，不超过15字】
+斜体副标题紧随其下:
+【一句揭示这种食物本质的话,不超过15字】
 
-整体气质：奥杜邦博物插画×卡拉瓦乔光影×有史以来最美的科学摄影。
-4K精度，标本照明，极致内部细节。
-没有任何临床感，一切都鲜活。
-写实风格，非示意图，非卡通，非简化图解。
-每一种材质都有真实的物理质感：
+整体气质:奥杜邦博物插画×卡拉瓦乔光影×有史以来最美的科学摄影。
+4K精度,标本照明,极致内部细节。
+没有任何临床感,一切都鲜活。
+写实风格,非示意图,非卡通,非简化图解。
+每一种材质都有真实的物理质感:
 粗糙的、光滑的、湿润的、干燥的、致密的、疏松的。
 ```
 
@@ -1059,7 +1202,7 @@ Generate an image of the most significant event of 2020
 **Prompt:**
 
 ```
-请帮我生成一张视觉品牌拆解图，稍后我需要用来生成讲解的视频。
+请帮我生成一张视觉品牌拆解图,稍后我需要用来生成讲解的视频。
 ```
 
 <!-- Case 70: Apartment Drama Animation Storyboard Sheet (by @CurieuxExplorer) -->
@@ -1085,7 +1228,7 @@ Create a new animation sheet, but this time it's a storyboard between an Indian 
 **Prompt:**
 
 ```
-🎨 This GPT Image 2 prompt turns any image into a printable paint-by-numbers page. For best results, use ChatGPT in Thinking mode. I think we should call it numberfying. The intellectuals can call it Colorbookification. 😂 I tried it with a few TurboToadToken images and the results are wild. 🐸💛 Create it. Print it. Paint it. For kids, adults, and anyone who wants an easy creative activity. Try it and post your results in the comments. Prompt below 👇 Create a professional high-resolution paint-by-numbers template from the provided image as a single PNG only. Use an A4 portrait ratio canvas at 300 DPI with a pure white background. The main artwork must be a clean black-and-white line drawing containing only black outlines, black numbers, and white unfilled paintable areas. Do not create a PDF, document, mockup, multi-page layout, or colored version. Do not use color, gray, shading, texture, gradients, transparency, or pre-filled areas in the main artwork. Analyze the original image and choose the number of colors adaptively based on image complexity, from 1 to a maximum of 14 colors. If the image has only 1–2 important colors, use only 1–2 colors; for simple images use 3–6 colors; for medium complexity use 7–10 colors; for complex, photographic, or highly detailed images use 11–14 colors. Do not force unnecessary colors. Assign each selected color one unique number and merge similar shades unless separation is essential for recognition. Convert the image into simplified, fully closed, easy-to-paint regions while preserving the recognizable composition, main objects, characters, text, logos, foreground, background, and key details. Every paintable white region must contain the correct black number, centered clearly inside the matching area, readable, upright, and not touching outlines. Large black or dark areas from the original must remain white paintable regions with the correct number, not filled black. Only tiny permanent black line details, such as mouth lines, nostrils, pupils, eyelashes, seams, or small decorative strokes, may remain unnumbered. At the bottom of the same PNG, add a neat legend section with the heading “Instructions”, the sentence “Paint the areas with the matching colors.”, and a list of every used number with a small color swatch and the English color name. Color swatches may appear only in the legend. Ensure the numbering exactly matches the legend, every paintable area is numbered, all regions are closed, and the final result is clean, professional, print-ready, and recognizable as the original image.
+🎨 This GPT Image 2 prompt turns any image into a printable paint-by-numbers page. For best results, use ChatGPT in Thinking mode. I think we should call it numberfying. The intellectuals can call it Colorbookification. 😂 I tried it with a few TurboToadToken images and the results are wild. 🐸💛 Create it. Print it. Paint it. For kids, adults, and anyone who wants an easy creative activity. Try it and post your results in the comments. Prompt below 👇 Create a professional high-resolution paint-by-numbers template from the provided image as a single PNG only. Use an A4 portrait ratio canvas at 300 DPI with a pure white background. The main artwork must be a clean black-and-white line drawing containing only black outlines, black numbers, and white unfilled paintable areas. Do not create a PDF, document, mockup, multi-page layout, or colored version. Do not use color, gray, shading, texture, gradients, transparency, or pre-filled areas in the main artwork. Analyze the original image and choose the number of colors adaptively based on image complexity, from 1 to a maximum of 14 colors. If the image has only 1-2 important colors, use only 1-2 colors; for simple images use 3-6 colors; for medium complexity use 7-10 colors; for complex, photographic, or highly detailed images use 11-14 colors. Do not force unnecessary colors. Assign each selected color one unique number and merge similar shades unless separation is essential for recognition. Convert the image into simplified, fully closed, easy-to-paint regions while preserving the recognizable composition, main objects, characters, text, logos, foreground, background, and key details. Every paintable white region must contain the correct black number, centered clearly inside the matching area, readable, upright, and not touching outlines. Large black or dark areas from the original must remain white paintable regions with the correct number, not filled black. Only tiny permanent black line details, such as mouth lines, nostrils, pupils, eyelashes, seams, or small decorative strokes, may remain unnumbered. At the bottom of the same PNG, add a neat legend section with the heading "Instructions", the sentence "Paint the areas with the matching colors.", and a list of every used number with a small color swatch and the English color name. Color swatches may appear only in the legend. Ensure the numbering exactly matches the legend, every paintable area is numbered, all regions are closed, and the final result is clean, professional, print-ready, and recognizable as the original image.
 ```
 
 <!-- Case 78: Modern Mafia Boss Portrait (by @john_my07) -->
@@ -1098,7 +1241,7 @@ Create a new animation sheet, but this time it's a storyboard between an Indian 
 **Prompt:**
 
 ```
-GPT Image 2.0 on ChatGPT vs Google Nano Banana 2 on Gemini. PROMPT: Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
+GPT Image 2.0 on ChatGPT vs Google Nano Banana 2 on Gemini. PROMPT: Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I'm sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
 <!-- Case 80: Cozy Scrapbook Mini Alter Egos (by @gold_force_guri) -->
@@ -1111,7 +1254,7 @@ GPT Image 2.0 on ChatGPT vs Google Nano Banana 2 on Gemini. PROMPT: Create a hyp
 **Prompt:**
 
 ```
-GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background. Add multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing). Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene. Use a soft pastel color palette (white base with pink, peach, blue accents). Keep the frame visually rich and filled but balanced and clean. Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful. The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene
+GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background. Add multiple small "mini version" characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject's face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing). Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene. Use a soft pastel color palette (white base with pink, peach, blue accents). Keep the frame visually rich and filled but balanced and clean. Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful. The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations - not a recreated or different scene
 ```
 
 ## Acknowledge
