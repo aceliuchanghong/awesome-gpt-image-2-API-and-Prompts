@@ -218,3 +218,29 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 「XXX」电视剧主题像素养成类游戏概念图，包括场景全局内容，周围环绕各人物（人物别重复）形象三视图，底部是场景特写，右下角是剧情梗概。
 ```
 
+
+### Case 16: [Anime wallpaper for foldable phone — colorful aesthetic](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/issues/18) (by [@THX-night](https://x.com/THX-night))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case16/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+请为我生成一个适用于折叠屏手机（Oppo find N6，内屏2480 × 2248 像素，外屏2616 × 1140 像素，比例适配即可，不需要完全对齐一样的像素大小）的4k壁纸，壁纸主体为动漫，风格中性壁纸适用于男性使用，但是动漫角色是女生，女生略为阳光且内敛，这个女生不能有太多的媚态。风格建议：唯美风。整个图片的色调偏向色彩多样化鲜艳方向，注意头发线条整洁，不要过于杂乱和生硬。直接做一个可以两屏适配的横纵可裁切大图。
+```
+
+
+### Case 17: [Anime wallpaper for foldable phone — dark cool style](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/issues/19) (by [@THX-night](https://x.com/THX-night))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case17/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+请为我生成一个适用于折叠屏手机（Oppo find N6，内屏2480 × 2248 像素，外屏2616 × 1140 像素，比例适配即可，不需要完全对齐一样的像素大小）的4k壁纸，壁纸主体为动漫，风格中性壁纸适用于男性使用，但是动漫角色是女生，短发。风格建议：酷、耍帅风格，但是不要像那种二次元手游一样，可以带一些未来元素。整个图片的色调适合黑色折叠屏手机风格，注意头发线条整洁，不要过于杂乱和生硬。这个图片人物占比不要太大，否则放到手机上效果不好。
+```
+
